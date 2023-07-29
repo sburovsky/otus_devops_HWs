@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="ec55f7c5-56da-4caa-9dbb-c1c8d01b6e21" configVersion="f9d5018617c379458c857333b70d760200000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ОрганизацияКод" id="1e131a0b-e8b8-4ad6-96c1-e8195ac64f39"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Количество" id="e6f68684-71ec-43a7-95ad-0ceef01b14df"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.СкладКод" id="f07b38bb-072c-493a-b526-bbf4235cf225"/>
+		</Metadata>
+		<Metadata name="Configuration.Otus_Devops_HW_06" id="397eacd1-4b67-4855-b91f-6a73c0862703" configVersion="ee90b2cb0518ff42a672c5b2b21fd2b900000000"/>
+		<Metadata name="ExternalDataSource.Otus_Devops_07_23_native_eds" id="f2798cea-450c-4a5d-a292-6935c067f69c" configVersion="aab2c28089bec742af5e942b36fab20700000000"/>
+		<Metadata name="ExternalDataSource.Otus_Devops_07_23_native_eds.Table.Otus_Devops_07_23_native_eds_public__nomenclature" id="c7245fb8-0bf9-42da-9eaa-66069b2e3677" configVersion="8145e188a7b9ab4ea30e2e54e423373400000000">
+			<Metadata name="ExternalDataSource.Otus_Devops_07_23_native_eds.Table.Otus_Devops_07_23_native_eds_public__nomenclature.Field._organization_code" id="4641328f-c935-4ce7-9599-affd2fda87bb"/>
+			<Metadata name="ExternalDataSource.Otus_Devops_07_23_native_eds.Table.Otus_Devops_07_23_native_eds_public__nomenclature.Field._stock_code" id="6813ce5a-05ab-45fe-9fef-ccd29fca1558"/>
+			<Metadata name="ExternalDataSource.Otus_Devops_07_23_native_eds.Table.Otus_Devops_07_23_native_eds_public__nomenclature.Field._count" id="6859b381-66fd-401c-8974-ee372ad4e6af"/>
+			<Metadata name="ExternalDataSource.Otus_Devops_07_23_native_eds.Table.Otus_Devops_07_23_native_eds_public__nomenclature.Field._code" id="bfc10eec-3682-4df5-b0ca-bd0cfa4c53f6"/>
+			<Metadata name="ExternalDataSource.Otus_Devops_07_23_native_eds.Table.Otus_Devops_07_23_native_eds_public__nomenclature.Field._name" id="d9b52015-9bfe-4632-b762-567805b1b8ff"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="4e18ddfc-4a60-4a62-990c-c723eaeed087" configVersion="648370ff85da2a49881f091acd23903600000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
