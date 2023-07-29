@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="bae3e8ae-5c8c-4b70-a030-1aff23777f26" configVersion="a5ae5473dac282a54e5489ece12c2123bf37b905"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента" id="9cb9a41a-768d-491a-b531-17c08cae7ddd" configVersion="437be366022f4a714456a7977d03dfb3f6dd6533"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаЭлемента.Form" id="9cb9a41a-768d-491a-b531-17c08cae7ddd.0" configVersion="47822028f938b156b41046e5a2bda0b0c205e7ff"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="bae3e8ae-5c8c-4b70-a030-1aff23777f26.0" configVersion="729c9e7ca3bfb3d3d33fba43c9831590a8316e2c"/>
+		<Metadata name="CommonPicture.ЗаполнитьПоШаблону" id="02a9bd35-b776-4f34-912c-419f3a2737da" configVersion="81f66a175c1c3c3f9058b93cad720d7e713048a5"/>
+		<Metadata name="CommonPicture.Перейти" id="9f1fcded-9f84-42af-8e13-80a734098099" configVersion="ac704de559905de9eb5e39b7a924a7441eae756c"/>
+		<Metadata name="Configuration.otus_devops_lesson04" id="0c3ed9ef-1d60-48aa-bf54-28a5295122c9" configVersion="d0d5f06c116bf74a6ab3042812e7e5f4e7f51e09"/>
+		<Metadata name="Enum.СтавкиНДС" id="2b151f3b-5ade-4799-af60-7b3bac65fb81" configVersion="ecd2487de5c2bbb165b4b0e403af83d01c38bde2">
+			<Metadata name="Enum.СтавкиНДС.EnumValue.НДС10" id="589484f4-f481-4db9-82bb-a1a288da3387"/>
+			<Metadata name="Enum.СтавкиНДС.EnumValue.НДС20" id="7a89a562-5364-4d51-93ea-5a42884551bc"/>
+			<Metadata name="Enum.СтавкиНДС.EnumValue.БезНДС" id="dd15ddf9-1fb0-4712-8ceb-79653ed31900"/>
+		</Metadata>
+		<Metadata name="Enum.ТипыСерийныхНомеровСертификатов" id="3929ca78-a78d-4905-a1ec-92f457ea5073" configVersion="995bb730804faf03e5e411c54d6255c1e77c8f73">
+			<Metadata name="Enum.ТипыСерийныхНомеровСертификатов.EnumValue.Магнитный" id="4aadd21f-6341-48ef-82dd-2d6fa107fb6e"/>
+			<Metadata name="Enum.ТипыСерийныхНомеровСертификатов.EnumValue.Штриховой" id="524d512a-dd6e-414c-b132-1b580c3c32f8"/>
+			<Metadata name="Enum.ТипыСерийныхНомеровСертификатов.EnumValue.Смешанный" id="85ffed26-e24f-4e52-a6f8-6116ad27fc50"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="5c5de864-d00f-4990-a1a8-f2efc023d620" configVersion="527956cc31a59c25c3c8e2f19762b0bc8a865fe9"/>
+		<Metadata name="Role.ODL04_ОсновнаяРоль" id="5df14ca9-23e1-452c-b76f-40c86984f164" configVersion="125f60f4ee9daf5c5fd70a5b8672c7ebc8be7310"/>
+		<Metadata name="StyleItem.ФонУправляющегоПоля" id="5c7b085d-f44e-460e-828a-a66e8eda911b" configVersion="24eebadfb5c930de88d35980421ab051c57dec64"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
